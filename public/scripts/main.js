@@ -1,0 +1,1 @@
+$(".openMenu").click(function(){$(".mobile_menu").removeClass("slideOut"),$(".mobile_menu").css({transform:"translate(0, 0)"})}),$(".closeMenu").click(function(){$(".mobile_menu").addClass("slideOut"),$(".mobile_menu").css({transform:"translate(-100%, 0)"})});
